@@ -25,17 +25,39 @@
         "clover honey"
       ],
       "image" : "peach-mango.svg"
-    }
+    },
      {
-      "name" : "Studentrous Strawberry",
-      "calories" : 350,
-      "type" : "sorbet",
+      "name" : "Rasberry Redness",
+      "calories" : 300,
+      "type" : "ice cream",
       "ingredients" : [
-        "strawberry syrup",
-        "berry chunks",
-        "chocochips"
+        "rasberry syrup",
+        "blueberry chunks",
+        "strawberry syrup"
       ],
-      "image" : "peach-mango.svg"
-    }
+      "image" : "ice-cream-xtra1.svg"
+    },
+    {
+     "name" : "Sprinkle Strawberry",
+     "calories" : 350,
+     "type" : "sorbet",
+     "ingredients" : [
+       "strawberry syrup",
+       "berry chunks",
+       "choco-chips"
+     ],
+     "image" : "strawberry-sprinkle.svg"
+   },
+   {
+    "name" : "Butter Scotch Gold",
+    "calories" : 350,
+    "type" : "sorbet",
+    "ingredients" : [
+      "chocolate syrup",
+      "butter scotch chunks",
+      "vanilla extract"
+    ],
+    "image" : "ice-cream-xtra2.svg"
+  }
   ]
 }
