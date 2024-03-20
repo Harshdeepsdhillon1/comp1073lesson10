@@ -26,5 +26,16 @@
       ],
       "image" : "peach-mango.svg"
     }
+     {
+      "name" : "Studentrous Strawberry",
+      "calories" : 350,
+      "type" : "sorbet",
+      "ingredients" : [
+        "strawberry syrup",
+        "berry chunks",
+        "chocochips"
+      ],
+      "image" : "peach-mango.svg"
+    }
   ]
 }
